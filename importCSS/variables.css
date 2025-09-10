@@ -1,0 +1,223 @@
+/* Nightcord - variables module (auto-extracted) */
+[data-popout-root],
+html{
+  --brand-experiment: #9491e1;
+  --brand-experiment-100: #e2e0f7;
+  --brand-experiment-130: #dfddf6;
+  --brand-experiment-160: #dbd9f5;
+  --brand-experiment-200: #d7d5f4;
+  --brand-experiment-230: #d2d0f3;
+  --brand-experiment-260: #cdcbf2;
+  --brand-experiment-300: #c7c5f0;
+  --brand-experiment-330: #c0beed;
+  --brand-experiment-360: #bab8ec;
+  --brand-experiment-400: #b2b0ea;
+  --brand-experiment-430: #a9a7e8;
+  --brand-experiment-460: #9f9de5;
+  --brand-experiment-500: #9491e1;
+  --brand-experiment-530: #8585cd;
+  --brand-experiment-560: #7676b6;
+  --brand-experiment-600: #6868a0;
+  --brand-experiment-630: #3f3f62;
+  --brand-experiment-660: #33334f;
+  --brand-experiment-700: #292940; 
+  --brand-experiment-730: #212134;
+  --brand-experiment-760: #1b1b2a;
+  --brand-experiment-800: #161622;
+  --brand-experiment-830: #12121c;
+  --brand-experiment-860: #101019;
+  --brand-experiment-900: black;
+  --brand-experiment-05a: rgba(136, 68, 153, 0.05);
+  --brand-experiment-10a: rgba(136, 68, 153, 0.1);
+  --brand-experiment-15a: rgba(136, 68, 153, 0.15);
+  --brand-experiment-20a: rgba(136, 68, 153, 0.2);
+  --brand-experiment-25a: rgba(136, 68, 153, 0.25);
+  --brand-experiment-30a: rgba(136, 68, 153, 0.3);
+  --brand-experiment-35a: rgba(136, 68, 153, 0.35);
+  --brand-experiment-40a: rgba(136, 68, 153, 0.4);
+  --brand-experiment-45a: rgba(136, 68, 153, 0.45);
+  --brand-experiment-50a: rgba(136, 68, 153, 0.5);
+  --brand-experiment-55a: rgba(136, 68, 153, 0.55);
+  --brand-experiment-60a: rgba(136, 68, 153, 0.6);
+  --brand-experiment-65a: rgba(136, 68, 153, 0.65);
+  --brand-experiment-70a: rgba(136, 68, 153, 0.7);
+  --brand-experiment-75a: rgba(136, 68, 153, 0.75);
+  --brand-experiment-80a: rgba(136, 68, 153, 0.8);
+  --brand-experiment-85a: rgba(136, 68, 153, 0.85);
+  --brand-experiment-90a: rgba(136, 68, 153, 0.9);
+  --brand-experiment-95a: rgba(136, 68, 153, 0.95);
+}
+.theme-dark,
+.theme-light{
+  --header-primary: #ffffff;
+  --header-secondary: #c0bfcb;
+  --text-normal: #ffffff;
+  --text-muted: #c0bfcb;
+  --text-link: #58e0fe;
+  --text-link-low-saturation: #57c3ff;
+  --text-positive: #93ffee;
+  --text-warning: #ffdd59;
+  --text-danger: #ff55aa;
+  --text-brand: #9491e1;
+  --background-primary: #4e4869;
+  --background-secondary: #3d3659;
+  --background-secondary-alt: #393253;
+  --background-tertiary: #3d3659;
+  --background-accent: #9491e1;
+  --background-floating: #2d2944;
+  --background-nested-floating: #3d3659;
+  --background-mobile-primary: #4e4869;
+  --background-mobile-secondary: #3d3659;
+  --chat-background: #4e4869;
+  --chat-border: #312d4a;
+  --chat-input-container-background: #4e4869;
+  --background-modifier-hover: rgba(255, 255, 255, 0.15);
+  --background-modifier-selected: rgba(255, 255, 255, 0.2);
+  --background-modifier-accent: rgba(255, 255, 255, 0.26);
+  --background-modifier-active: rgba(255, 255, 255, 0.17);
+  --info-positive-background: rgba(87, 255, 120, 0.15);
+  --info-positive-foreground: #93ffee;
+  --info-positive-text: #ffffff;
+  --info-warning-background: rgba(255, 221, 89, 0.15);
+  --info-warning-foreground: #ffdd59;
+  --info-warning-text: #ffffff;
+  --info-danger-background: rgba(255, 87, 84, 0.15);
+  --info-danger-foreground: #ff55aa;
+  --info-danger-text: #ffffff;
+  --info-help-background: rgba(88, 224, 254, 0.15);
+  --info-help-foreground: #58e0fe;
+  --info-help-text: #ffffff;
+  --status-positive-background: #93ffee;
+  --status-positive-text: #312d4a;
+  --status-warning-background: #ffdd59;
+  --status-warning-text: #312d4a;
+  --status-danger-background: #ff55aa;
+  --status-danger-text: #ffffff;
+  --status-danger: #ff55aa;
+  --status-positive: #93ffee;
+  --status-warning: #ffdd59;
+  --button-danger-background: #ff55aa;
+  --button-danger-background-hover: #fa2493;
+  --button-danger-background-active: #fa247e;
+  --button-danger-background-disabled: #ff55aa;
+  --button-positive-background: #93ffee;
+  --button-positive-background-hover: #01bbcc;
+  --button-positive-background-active: #01a7cc;
+  --button-positive-background-disabled: #93ffee;
+  --button-secondary-background: #665f7d;
+  --button-secondary-background-hover: #5a546f;
+  --button-secondary-background-active: #5a546f;
+  --button-secondary-background-disabled: #665f7d;
+  --button-outline-danger-text: #ffffff;
+  --button-outline-danger-border: #ff55aa;
+  --button-outline-danger-background: transparent;
+  --button-outline-danger-background-hover: #fa247e;
+  --button-outline-danger-text-hover: #ffffff;
+  --button-outline-danger-border-hover: #fa247e;
+  --button-outline-danger-background-active: #fa2493;
+  --button-outline-danger-text-active: #ffffff;
+  --button-outline-danger-border-active: #fa247e;
+  --button-outline-positive-text: #ffffff;
+  --button-outline-positive-border: #93ffee;
+  --button-outline-positive-background: transparent;
+  --button-outline-positive-background-hover: #01a7cc;
+  --button-outline-positive-text-hover: #312d4a;
+  --button-outline-positive-border-hover: #01a7cc;
+  --button-outline-positive-background-active: #01bbcc;
+  --button-outline-positive-text-active: #ffffff;
+  --button-outline-positive-border-active: #01a7cc;
+  --button-outline-brand-text: #ffffff;
+  --button-outline-brand-border: #9491e1;
+  --button-outline-brand-background: transparent;
+  --button-outline-brand-background-hover: #7876b7;
+  --button-outline-brand-text-hover: #ffffff;
+  --button-outline-brand-border-hover: #7876b7;
+  --button-outline-brand-background-active: #9491e1;
+  --button-outline-brand-text-active: #ffffff;
+  --button-outline-brand-border-active: #7876b7;
+  --button-outline-primary-text: #ffffff;
+  --button-outline-primary-border: #6a6681;
+  --button-outline-primary-background: transparent;
+  --button-outline-primary-background-hover: #64607a;
+  --button-outline-primary-text-hover: #ffffff;
+  --button-outline-primary-border-hover: #64607a;
+  --button-outline-primary-background-active: #5e5b73;
+  --button-outline-primary-text-active: #ffffff;
+  --button-outline-primary-border-active: #64607a;
+  --modal-background: #4e4869;
+  --modal-footer-background: #312d4a;
+  --scrollbar-thin-thumb: #312d4a;
+  --scrollbar-thin-track: transparent;
+  --scrollbar-auto-thumb: #312d4a;
+  --scrollbar-auto-track: rgba(61, 54, 89, 0.65);
+  --scrollbar-auto-scrollbar-color-thumb: #9491e1;
+  --scrollbar-auto-scrollbar-color-track: rgba(61, 54, 89, 0.65);
+  --input-background: #312d4a;
+  --input-placeholder-text: #e3e3e8;
+  --logo-primary: #ffffff;
+  --control-brand-foreground: #9491e1;
+  --control-brand-foreground-new: #9491e1;
+  --background-mentioned: rgba(255, 221, 89, 0.1);
+  --background-mentioned-hover: rgba(255, 221, 89, 0.08);
+  --background-message-hover: rgba(49, 45, 74, 0.07);
+  --background-message-automod: rgba(242, 213, 207, 0.05);
+  --background-message-automod-hover: rgba(242, 213, 207, 0.1);
+  --background-message-highlight: rgba(136, 68, 153, 0.1);
+  --background-message-highlight-hover: rgba(136, 68, 153, 0.08);
+  --channels-default: #b2b1c0;
+  --channel-icon: #b2b1c0;
+  --channel-text-area-placeholder: rgba(255, 255, 255, 0.5);
+  --channeltextarea-background: #3d3659;
+  --activity-card-background: #312d4a;
+  --textbox-markdown-syntax: #5a5473;
+  --spoiler-revealed-background: #5a5473;
+  --spoiler-hidden-background: #6a6681;
+  --android-navigation-bar-background: #312d4a;
+  --android-ripple: rgba(49, 45, 74, 0.3);
+  --deprecated-card-bg: rgba(49, 45, 74, 0.6);
+  --deprecated-card-editable-bg: rgba(49, 45, 74, 0.3);
+  --deprecated-store-bg: #4e4869;
+  --deprecated-quickswitcher-input-background: #5e5b73;
+  --deprecated-quickswitcher-input-placeholder: rgba(49, 45, 74, 0.3);
+  --deprecated-text-input-bg: #312d4a;
+  --deprecated-text-input-border: rgba(49, 45, 74, 0.3);
+  --deprecated-text-input-border-hover: #27233a;
+  --deprecated-text-input-border-disabled: #3d3659;
+  --deprecated-text-input-prefix: #c0bfcb;
+  --focus-primary: #9491e1;
+  --interactive-normal: #ffffff;
+  --interactive-muted: rgba(255, 255, 255, 0.3);
+  --interactive-hover: #ffffff;
+  --interactive-active: #ffffff;
+}
+.theme-dark [class*=disabledPointerEvents],
+.theme-light [class*=disabledPointerEvents]{
+  --background-floating: #5a5473;
+  --background-tertiary: #554e72;
+}
+.bd-switch-body{
+  --switch-color: #6a6681;
+}
+.bd-switch input:checked + .bd-switch-body{
+  --switch-color: #93ffee;
+}
+nav[class*=guilds-] div[data-list-item-id=guildsnav___home]{
+  --background-primary: #3d3659;
+}
+main[class^=chatContent-] div[class^=messageAttachment-]{
+  --background-secondary: #6a6681;
+  --background-secondary-alt: #6a6681;
+  --text-link: #ffffff;
+}
+div[class*=recentMentionsPopout] div[class^=header-] div[class^=controls-]{
+  --background-secondary: #5a5473;
+  --background-primary: rgba(90, 84, 115, 0.9);
+}
+div[class*=recentMentionsPopout] div[class^=scroller-] [role=button]{
+  --background-tertiary: rgba(192, 191, 203, 0.15);
+  --background-floating: rgba(192, 191, 203, 0.12);
+}
+div[class^=communityInfoPill]{
+  --background-accent: rgba(78, 72, 105, 0.7);
+  color: #ffffff;
+}
